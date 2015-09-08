@@ -13,7 +13,7 @@ public class Q1_1UniqueChar {
     }
     
     public static void main(String [] args) {
-    	Question1_1 test = new Question1_1();
+    	Q1_1UniqueChar test = new Q1_1UniqueChar();
     	String s1 = "abcd";
     	String s2 = "aabcd";
     	System.out.println(test.isAllUnique(s1));
